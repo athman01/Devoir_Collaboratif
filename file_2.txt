@@ -1,2 +1,4 @@
 create file2
 JE SUIS LE PARTICIPANT
+ajouter une nouvelle ligne 
+(i'm in branch branch_for_modifieFile2)
